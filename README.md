@@ -17,4 +17,30 @@ How to RUN this PROJECT-:
   DELETE request http://localhost:8000/pizza/update/id_of_pizza here id_of_pizza is same as 4th api endpoint and you don't need to send any data
  
  #For Accessing all the API EndPoint You must be a Logged in as active User.
-![plot](./ScreenShots/AddPizza.PNG)
+ 
+ #My Testing ScreenShots On POSTMAN
+ 1st Endpoint for getting Pizza List with GET request.
+  ![plot](./ScreenShots/ListPizza.PNG)
+ 
+ 2nd Endpoint for getting Filtered List of Pizza with POST request.
+  ![plot](./ScreenShots/FilteredListPizza.PNG)
+ 
+ 3rd Endpoint for Creating a Pizza with POST request.
+  ![plot](./ScreenShots/AddPizza.PNG)
+  After Adding
+  ![plot](./ScreenShots/AfterAddingPizza.PNG)
+ 
+ 
+ 4th Endpoint for Updating existing Pizza with POST request.
+  Before Update
+  ![plot](./ScreenShots/BeforeUpdate.PNG)
+  UpDating
+  ![plot](./ScreenShots/Updating.PNG)
+  After Update
+  ![plot](./ScreenShots/AfterUpdate.PNG)
+ 
+ 5th Endpoint for Deleting a Pizza with DELETE request.
+  Deleting
+  ![plot](./ScreenShots/Delete.PNG)
+  After Delete
+  ![plot](./ScreenShots/AfterDelete.PNG)
