@@ -3,7 +3,10 @@ How to RUN this PROJECT-:
 1. First thing first install Python.
 2. Install pip (Read the documentation(https://pip.pypa.io/en/stable/installing/) if you don't know how to).
 3. Then install all the dependencies from requirement.txt
-4. Run python manage.py runserver
+4. Create a Postgres Database with user and password.
+5. Replace Database details with your details in Database section settings.py in Pizza directory.
+6. Run python manage.py runserver
+
 # All The Api EndPoints.
 1. To get list of all Stored Pizzas Use-:
   GET request with url http://localhost:8000/pizza/
