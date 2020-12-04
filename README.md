@@ -18,29 +18,49 @@ How to RUN this PROJECT-:
  
  #For Accessing all the API EndPoint You must be a Logged in as active User.
  
- #My Testing ScreenShots On POSTMAN
+ #My Testing ScreenShots On POSTMAN.
+ 
+ 
  1st Endpoint for getting Pizza List with GET request.
-  ![plot](./ScreenShots/ListPizza.PNG)
+ 
+  ![plot](./ScreenShots/ListPizza.PNG).
+ 
  
  2nd Endpoint for getting Filtered List of Pizza with POST request.
-  ![plot](./ScreenShots/FilteredListPizza.PNG)
+ 
+  ![plot](./ScreenShots/FilteredListPizza.PNG).
+ 
  
  3rd Endpoint for Creating a Pizza with POST request.
-  ![plot](./ScreenShots/AddPizza.PNG)
-  After Adding
-  ![plot](./ScreenShots/AfterAddingPizza.PNG)
+ 
+  ![plot](./ScreenShots/AddPizza.PNG).
+  
+  After Adding.
+  
+  ![plot](./ScreenShots/AfterAddingPizza.PNG).
  
  
  4th Endpoint for Updating existing Pizza with POST request.
-  Before Update
-  ![plot](./ScreenShots/BeforeUpdate.PNG)
-  UpDating
-  ![plot](./ScreenShots/Updating.PNG)
-  After Update
-  ![plot](./ScreenShots/AfterUpdate.PNG)
+ 
+  Before Update.
+  
+  ![plot](./ScreenShots/BeforeUpdate.PNG).
+  
+  UpDating.
+  
+  ![plot](./ScreenShots/Updating.PNG).
+  
+  After Update.
+  
+  ![plot](./ScreenShots/AfterUpdate.PNG).
+  
  
  5th Endpoint for Deleting a Pizza with DELETE request.
-  Deleting
-  ![plot](./ScreenShots/Delete.PNG)
-  After Delete
-  ![plot](./ScreenShots/AfterDelete.PNG)
+ 
+  Deleting.
+  
+  ![plot](./ScreenShots/Delete.PNG).
+  
+  After Delete.
+  
+  ![plot](./ScreenShots/AfterDelete.PNG).
