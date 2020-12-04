@@ -17,4 +17,4 @@ How to RUN this PROJECT-:
   DELETE request http://localhost:8000/pizza/update/id_of_pizza here id_of_pizza is same as 4th api endpoint and you don't need to send any data
  
  #For Accessing all the API EndPoint You must be a Logged in as active User.
-![plot](./ScreeShot/AddPizza.png)
+![plot](./ScreeShot/AddPizza.PNG)
