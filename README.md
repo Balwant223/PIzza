@@ -5,7 +5,7 @@ How to RUN this PROJECT-:
 3. Then install all the dependencies from requirement.txt
 4. Run python manage.py runserver
 # All The Api EndPoints.
-1. To get All list of all Stored Pizzas Use-:
+1. To get list of all Stored Pizzas Use-:
   GET request with url http://localhost:8000/pizza/
 2. To filter specific category of Pizzas for example By Regular or Square Type or Size then Use-:
   POST request with http://localhost:8000/pizza/ and json data (ex.={"Type":"regularlar"} to get all regular type pizzas}
