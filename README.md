@@ -5,7 +5,10 @@ How to RUN this PROJECT-:
 3. Then install all the dependencies from requirement.txt
 4. Create a Postgres Database with user and password.
 5. Replace Database details with your details in Database section settings.py of Pizza directory.
-6. Run python manage.py runserver
+6. Run 'python manage.py makemigrations'.
+7. Run 'python manage.py migrate'.
+8. Create Superuser by running-: python manage.py createsuperuser.
+9. Run 'python manage.py runserver'.
 
 # All The Api EndPoints.
 1. To get list of all Stored Pizzas Use-:
