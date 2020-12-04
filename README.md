@@ -4,7 +4,7 @@ How to RUN this PROJECT-:
 2. Install pip (Read the documentation(https://pip.pypa.io/en/stable/installing/) if you don't know how to).
 3. Then install all the dependencies from requirement.txt
 4. Create a Postgres Database with user and password.
-5. Replace Database details with your details in Database section settings.py in Pizza directory.
+5. Replace Database details with your details in Database section settings.py of Pizza directory.
 6. Run python manage.py runserver
 
 # All The Api EndPoints.
